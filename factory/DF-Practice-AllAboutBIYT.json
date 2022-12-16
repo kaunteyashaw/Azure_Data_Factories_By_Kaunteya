@@ -1,0 +1,9 @@
+{
+	"name": "DF-Practice-AllAboutBIYT",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ace9880a-73ef-4d6e-854d-8e1c13d83e0c",
+		"tenantId": "ff501040-ab1c-4680-a880-074f6b3a7b97"
+	}
+}
