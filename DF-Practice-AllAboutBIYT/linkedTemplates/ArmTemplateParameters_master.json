@@ -11,6 +11,9 @@
 		"LS_Blob_connectionString": {
 			"value": ""
 		},
+		"LS_OnPremSQLServer_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
