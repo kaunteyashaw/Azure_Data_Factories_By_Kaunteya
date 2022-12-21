@@ -103,7 +103,7 @@
 							],
 							"outputs": [
 								{
-									"referenceName": "DelimitedText1",
+									"referenceName": "ds_ToDelete",
 									"type": "DatasetReference"
 								}
 							]

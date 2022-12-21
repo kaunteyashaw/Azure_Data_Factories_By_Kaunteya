@@ -1,5 +1,5 @@
 {
-	"name": "DelimitedText1",
+	"name": "ds_ToDelete",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "LS_Blob",
