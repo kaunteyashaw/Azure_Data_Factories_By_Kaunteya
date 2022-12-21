@@ -1,0 +1,19 @@
+{
+	"name": "ds_xl",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_Blob",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Excel",
+		"typeProperties": {
+			"sheetName": "Dim Tables",
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "blob1"
+			}
+		},
+		"schema": []
+	}
+}
