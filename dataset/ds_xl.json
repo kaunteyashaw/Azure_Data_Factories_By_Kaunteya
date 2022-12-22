@@ -8,11 +8,12 @@
 		"annotations": [],
 		"type": "Excel",
 		"typeProperties": {
-			"sheetName": "Dim Tables",
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "dim_tables.xlsx",
 				"container": "blob1"
-			}
+			},
+			"sheetIndex": 0
 		},
 		"schema": []
 	}
